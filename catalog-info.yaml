@@ -1,0 +1,54 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: TestingCreate1
+  annotations:
+    confluence/page: TestingCreate1
+spec:
+  type: service
+  owner: guest
+  lifecycle: experimental
+  projectInfo:
+    projectName: TestingCreate1
+    moduleName: Selva
+    informationAuthor: ''
+    modality: ''
+    bodyParts: ''
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: ''
+    sourceCodeLanguage: ''
+    developmentStatus: ''
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: ''
+    TRL: ''
+    projectStatus: ''
